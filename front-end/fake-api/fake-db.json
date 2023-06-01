@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "availability": "2650 sf",
+      "id": "1",
+      "img": "./images/img-1.jpg",
+      "name": "Blended Sienna",
+      "price": "$$$",
+      "type": "COREtec Premium"
+
+    },
+    {
+      "availability": "2650 sf",
+      "id": "2",
+      "img": "./images/img-2.jpg",
+      "name": "Blended Sienna-1",
+      "price": "$$$",
+      "type": "COREtec Premium"
+    },
+    {
+      "availability": "2650 sf",
+      "id": "3",
+      "img": "./images/img-3.jpg",
+      "name": "Blended Sienna-2",
+      "price": "$$$",
+      "type": "COREtec Premium"
+    },
+    {
+      "availability": "2650 sf",
+      "id": "4",
+      "img": "./images/img-4.jpg",
+      "name": "Blended Sienna-3",
+      "price": "$$$",
+      "type": "COREtec Premium"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "email": "",
+      "name": "John Doe",
+      "date": "2012-04-23T18:25:43.511Z",
+      "rating": "4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "phone": ""
+    },
+    {
+      "id": "2",
+      "email": "",
+      "name": "Johnny Depp",
+      "date": "2016-07-23T18:25:43.511Z",
+      "rating": "2",
+      "description": "123 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "phone": ""
+    }
+  ]
+}

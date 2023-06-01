@@ -1,0 +1,36 @@
+.product-reviews {
+  background-color: #e8ecee;
+  padding-left: 50px;
+
+  .review-form {
+    margin-top: 60px;
+    padding-bottom: 20px;
+  }
+
+  .form-row {
+    margin-bottom: 30px;
+  }
+
+  .comment {
+    margin-bottom: 15px;
+  }
+
+  .name-block {
+    display: flex;
+    margin-bottom: 15px;
+
+    .name {
+      margin-right: 10px;
+    }
+  }
+
+  .phone {
+    margin-bottom: 15px;
+  }
+  .post-btn {
+    background-color: #446671;
+    border-color: #446671;
+    border-radius: 35px;
+    padding: 8px 50px;
+  }
+}
